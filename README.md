@@ -6,6 +6,11 @@
 
 ![image](https://user-images.githubusercontent.com/58694490/118353724-3264f400-b59a-11eb-91ee-1340ef6fc300.png)
 
+Answers to questions
+
+The CI used by https://github.com/google/guava is Github Actions
+
+The jobs' ids are test, Publish snapshot, generate docs et.
 
 
 # travis-ci-tutorial-java
